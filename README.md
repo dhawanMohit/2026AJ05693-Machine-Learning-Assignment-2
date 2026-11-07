@@ -48,8 +48,8 @@ Ten core cytological characteristics of cell nuclei are measured from digitized 
 
 ## c. GitHub Repository & Live Streamlit App Links
 
-- **GitHub Repository Link:** `https://github.com/<your-github-username>/wdbc-ml-assignment2` *(Update with your personal GitHub URL after pushing this repository)*
-- **Live Streamlit App Link:** `https://<your-streamlit-app-name>.streamlit.app` *(Update with your deployed Streamlit Community Cloud URL)*
+- **GitHub Repository Link:** `https://github.com/dhawanMohit/2026AJ05693-Machine-Learning-Assignment-2` *(Update with your personal GitHub URL after pushing this repository)*
+- **Live Streamlit App Link:** `https://2026aj05693-machine-learning-assignment-2.streamlit.app` *(Update with your deployed Streamlit Community Cloud URL)*
 
 ### Repository Folder Structure
 
